@@ -5,7 +5,7 @@
 /*:
  * @target MZ
  * @plugindesc Rhythm, Memory and Math mini games. Each one stores its result in a variable you choose.
- * @author You
+ * @author ymdntsk
  *
  * @help
  * ============================================================================
